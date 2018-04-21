@@ -1,0 +1,50 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Alsoran PCB-20180114-version2.PcbDoc   2018/1/15  20:55:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Alsoran PCB-20180114-version2.TXT
+EIA File   : Alsoran PCB-20180114-version2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          163              92.58 Inch (2351.49 mm)
+T2        19.7mil (0.50038mm)      Round          65               62.59 Inch (1589.76 mm)
+T3        23.6mil (0.59944mm)      Round          14               25.96 Inch (659.39 mm)
+T4        27.6mil (0.70104mm)      Round          56               0.77 Inch (19.61 mm)
+T5        31.5mil (0.8001mm)       Round          6                0.57 Inch (14.59 mm)
+T6        32mil (0.8128mm)         Round          344              107.64 Inch (2734.13 mm)
+T7        35.4mil (0.89916mm)      Round          2                0.10 Inch (2.54 mm)
+T8        59.1mil (1.50114mm)      Round          344              134.18 Inch (3408.11 mm)
+T9        66.9mil (1.69926mm)      Round          175              89.59 Inch (2275.59 mm)
+T10       118.1mil (2.99974mm)     Round          4                8.16 Inch (207.34 mm)
+T11       120mil (3.048mm)         Round          12               32.26 Inch (819.31 mm)
+T12       156.7mil (3.98018mm)     Round          87               76.63 Inch (1946.52 mm)
+T13       157mil (3.9878mm)        Round          13               35.76 Inch (908.28 mm)
+T14       66.9mil (1.69926mm)      Round          1         NPTH   0.00 Inch (0.00 mm)
+T15       120mil (3.048mm)         Round          2         NPTH   0.94 Inch (23.88 mm)
+T16       156.7mil (3.98018mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T17       157mil (3.9878mm)        Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            1290             667.74 Inch (16960.54 mm)
+
+Two holes at same point : 16
+-----------------------
+403,4536
+403,4536
+403,4536
+403,4536
+403,4701
+403,4701
+403,4701
+403,4701
+62,4701
+62,4701
+62,4701
+62,4701
+62,4536
+62,4536
+62,4536
+62,4536
+
+Total Processing Time (hh:mm:ss) : 00:00:01

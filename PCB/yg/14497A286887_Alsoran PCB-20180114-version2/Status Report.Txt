@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Alsoran PCB-20180114-version2.TXT]
+   Generated File[Alsoran PCB-20180114-version2.DRL]
+   Generated File[Alsoran PCB-20180114-version2.LDP]
+   Generated File[Alsoran PCB-20180114-version2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:55:10 On 2018/1/15
